@@ -11,6 +11,7 @@ public class Herencias_clases_Variables {
         trabajador.laEdad = 25;
         trabajador.nombre = "kevin";
     }
+}
     class Persona {
         int laEdad;
         String nombre;
@@ -27,5 +28,5 @@ public class Herencias_clases_Variables {
     int salario;
     }
 
-}
+
 
